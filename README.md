@@ -1,7 +1,7 @@
 # Detecting Pneumonia in Chest X-Ray Images
 
 **Group 17:** Oren Raz, Shaked Shabat, Itay Keinan, Evyatar Yatir  
-**Ben-Gurion University course project**
+**Data Science in the Industry Course Project**
 
 ## Overview
 
@@ -56,9 +56,3 @@ The notebook is designed for **Google Colab**.
 2. Download your personal `kaggle.json` API token from Kaggle.
 3. Run the notebook and upload `kaggle.json` when prompted.
 4. Run the remaining cells sequentially.
-
-> Never upload or commit `kaggle.json` to the repository.
-
-## Disclaimer
-
-This is an educational research project and is not intended or validated for clinical use.
